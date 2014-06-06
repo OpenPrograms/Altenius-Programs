@@ -6,7 +6,7 @@
     dependencies = {
     },
         name = "Tweaked Edit";
-        description = "A tweaked version of the edit.lua programs provided with OpenOS.";
+        description = "A tweaked version of the edit.lua program provided with OpenOS";
         authors = "Altenius";
   }
 }
