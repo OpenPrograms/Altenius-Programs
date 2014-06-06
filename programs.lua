@@ -1,7 +1,7 @@
 {
   ["tdit"] = {
     files = {
-      ["master/tdit.lua"] = "/";
+      ["master/tdit.lua"] = "/bin";
     },
     dependencies = {
     },
